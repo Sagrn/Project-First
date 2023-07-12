@@ -1,6 +1,11 @@
 body{
           background-color: antiquewhite;
 } 
+.heading{
+    height:30px;
+    width:200px;
+    margin:auto;
+}
 #clockContainer{
     position:relative;
     margin:auto;
